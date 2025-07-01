@@ -21,3 +21,16 @@ Các thành phần Collections trong postman:
   Body (Nội dung): Dữ liệu cụ thể được gửi đi hoặc nhận về từ API, có thể chứa thông tin tương tác như thông tin đăng ký, thông tin sản phẩm hoặc bất kỳ dữ liệu nào khác mà API yêu cầu hoặc gửi lại.  
   Response (Phản hồi): Thông tin phản hồi từ API sau khi bạn gửi yêu cầu, bao gồm trạng thái HTTP (200, 404, v.v.), dữ liệu phản hồi và thông tin khác như thời gian phản hồi.
 ## Thực hành các chức năng postman
+- Yêu cầu GET Lấy dữ liệu từ server.
+![image](https://github.com/user-attachments/assets/4fac691f-5303-46fa-bcd4-40506158aeed)
+- Yêu cầu POST
+- Mục đích Gửi dữ liệu mới lên server để tạo mới.
+![image](https://github.com/user-attachments/assets/7b59e2f6-8fb0-40ac-bc83-d78486c6269f)
+- Yêu cầu PUT
+- Mục đich Cập nhật toàn bộ dữ liệu một mục đã có.
+![image](https://github.com/user-attachments/assets/99f2d9e6-82dc-4220-95c2-ddd7860a0d78)
+-Yêu cầu DELETE
+Mục đích Xóa dữ liệu khỏi server.
+![image](https://github.com/user-attachments/assets/fee09f85-4b1c-4d45-8b82-9333e21f2402)
+
+
